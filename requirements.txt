@@ -1,0 +1,7 @@
+seaborn 
+pandas
+tensorflow 
+keras
+theano
+matplotlib
+os
